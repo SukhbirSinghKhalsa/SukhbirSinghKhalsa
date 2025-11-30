@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🌱 I'm currently learning **Kubernetes,Helm, Terraform, Python, Docker, PowerShell**
+- 🌱 I'm currently learning **Kubernetes, Helm Charts, ArgoCD, Prometheus, Grafana, O11Y, Terraform, Python, Docker, PowerShell**
 - 💬 Ask me about **Azure, Terraform, GitHub Actions, Deployments, Docker, Kubernetes**
 - 📫 How to reach me: **sukhbirsinghkhalsa5@gmail.com**
 - ⚡ Hobbies: **Playing Chess, Traveling, Singing...**
