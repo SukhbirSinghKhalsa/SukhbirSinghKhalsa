@@ -13,10 +13,11 @@
 
 ## About Me
 
-- 🌱 I'm currently learning **Kubernetes, Terraform, Python, Docker**
+- 🌱 I'm currently learning **Kubernetes,Helm, Terraform, Python, Docker, PowerShell**
 - 💬 Ask me about **Azure, Terraform, GitHub Actions, Deployments, Docker, Kubernetes**
 - 📫 How to reach me: **sukhbirsinghkhalsa5@gmail.com**
 - ⚡ Hobbies: **Playing Chess, Traveling, Singing...**
+- 📖 Open to:  **Work on Freelancing Projects, Discussions, Invest my time**
 
 ## Connect with Me
 
