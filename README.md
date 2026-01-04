@@ -72,11 +72,6 @@
 ## 📈 Activity Graph
 ![Sukhbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SukhbirSinghKhalsa&theme=github-compact)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SukhbirSinghKhalsa&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhbirSinghKhalsa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ### Connect with Me on Linkedin 👇
 <p align="left">
   <a href="https://www.linkedin.com/in/sukhbirkhalsa/" target="_blank">
