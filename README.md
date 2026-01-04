@@ -1,17 +1,8 @@
 # Hi 👋, I'm Sukhbirsingh Khalsa
+  <img src="https://komarev.com/ghpvc/?username=SukhbirSinghKhalsa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <h3>A Curious DevOps Engineer from Mumbai, India</h3>
   
-  <img src="https://komarev.com/ghpvc/?username=SukhbirSinghKhalsa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SukhbirSinghKhalsa" alt="GitHub Trophies" />
-  </a>
-
-<img align="right" alt="Coding GIF" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
-
-## About Me
+### About Me
 
 - 🌱 I'm currently learning **Kubernetes, Helm Charts, ArgoCD, Prometheus, Grafana, O11Y, Terraform, Python, Docker, PowerShell**
 - 💬 Ask me about **Azure, Terraform, GitHub Actions, Deployments, Docker, Kubernetes**
@@ -19,15 +10,8 @@
 - ⚡ Hobbies: **Playing Chess, Traveling, Singing...**
 - 📖 Open to:  **Work on Freelancing Projects, Discussions, Invest my time**
 
-## Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sukhbirkhalsa/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-## Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -74,18 +58,28 @@
   </a>
 </p>
 
-## GitHub Statistics
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhbirSinghKhalsa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SukhbirSinghKhalsa&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukhbirSinghKhalsa&theme=dark" alt="GitHub Streak" />
 
 
+### 🖥️ Operating Systems  
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 
+## 🏆 GitHub Trophies
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SukhbirSinghKhalsa" alt="GitHub Trophies" />
+  </a>
+  
+## 📈 Activity Graph
+![Sukhbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SukhbirSinghKhalsa&theme=github-compact)
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=SukhbirSinghKhalsa&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhbirSinghKhalsa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### Connect with Me on Linkedin 👇
+<p align="left">
+  <a href="https://www.linkedin.com/in/sukhbirkhalsa/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
