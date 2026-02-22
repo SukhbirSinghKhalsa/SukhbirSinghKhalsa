@@ -8,7 +8,7 @@
 - 💬 Ask me about **Azure, Terraform, GitHub Actions, Deployments, Docker, Kubernetes**
 - 📫 How to reach me: **sukhbirsinghkhalsa5@gmail.com**
 - ⚡ Hobbies: **Playing Chess, Traveling, Singing...**
-- 📖 Open to:  **Work on Freelancing Projects, Discussions, Invest my time**
+- 📖 Open to:  **Work on Freelancing Projects, Open Source Projects, Hourly or Contract Projects, Invest my time**
 
 
 ### Languages and Tools
