@@ -15,25 +15,25 @@
 <table >
   <tr>
     <td align="center">
-      <!-- <a href="https://azure.microsoft.com/en-in/"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/0_Microsoft_Azure">
         <img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://www.terraform.io/"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/1_Terraform">
         <img src="https://skillicons.dev/icons?i=terraform" width="48"  /><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://www.docker.com/"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/Docker-Implementations">
         <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://kubernetes.io"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/3_Kubernetes">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
@@ -45,13 +45,13 @@
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://git-scm.com/"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/git_mastery_with_ssk">
         <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://www.w3.org/html/"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
@@ -60,13 +60,13 @@
 
   <tr>
     <td align="center">
-      <!-- <a href="https://www.w3schools.com/css/"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
@@ -78,13 +78,13 @@
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://reactjs.org/"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/ReactJS-MiniComponents">
         <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
-      <!-- <a href="https://getbootstrap.com"> -->
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
         &nbsp; &nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
