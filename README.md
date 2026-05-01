@@ -14,6 +14,99 @@
 ### Languages and Tools
 <img width="1787" height="309" alt="image" src="https://github.com/user-attachments/assets/79ae7d45-6238-4b2c-a542-35a25449ae2e" />
 
+<h3 >🚀 Tech Stack</h3>
+
+<table >
+  <tr>
+    <td >
+      <a href="https://azure.microsoft.com/en-in/">
+        <img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>
+        Azure
+      </a>
+    </td>
+    <td >
+      <a href="https://www.terraform.io/">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48"/><br/>
+        Terraform
+      </a>
+    </td>
+    <td >
+      <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+        Docker
+      </a>
+    </td>
+    <td >
+      <a href="https://kubernetes.io">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>
+        Kubernetes
+      </a>
+    </td>
+    <td >
+      <a href="https://www.python.org">
+        <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+        Python
+      </a>
+    </td>
+    <td >
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+        Git
+      </a>
+    </td>
+    <td >
+      <a href="https://www.w3.org/html/">
+        <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+        HTML5
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td >
+      <a href="https://www.w3schools.com/css/">
+        <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+        CSS3
+      </a>
+    </td>
+    <td >
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>
+        JavaScript
+      </a>
+    </td>
+    <td >
+      <a href="https://nodejs.org">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+        Node.js
+      </a>
+    </td>
+    <td >
+      <a href="https://reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+        React
+      </a>
+    </td>
+    <td >
+      <a href="https://getbootstrap.com">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
+        Bootstrap
+      </a>
+    </td>
+    <td >
+      <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
+        MySQL
+      </a>
+    </td>
+    <td >
+      <a href="https://postman.com">
+        <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
+        Postman
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### 🖥️ Operating Systems  
