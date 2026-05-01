@@ -12,102 +12,97 @@
 
 
 ### Languages and Tools
-<img width="1787" height="309" alt="image" src="https://github.com/user-attachments/assets/79ae7d45-6238-4b2c-a542-35a25449ae2e" />
-
-<h3 >🚀 Tech Stack</h3>
-
 <table >
   <tr>
-    <td >
-      <a href="https://azure.microsoft.com/en-in/">
+    <td align="center">
+      <!-- <a href="https://azure.microsoft.com/en-in/"> -->
         <img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>
-        Azure
+        &nbsp; &nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://www.terraform.io/">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48"/><br/>
-        Terraform
+    <td align="center">
+      <!-- <a href="https://www.terraform.io/"> -->
+        <img src="https://skillicons.dev/icons?i=terraform" width="48"  /><br/>
+        &nbsp; &nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://www.docker.com/">
+    <td align="center">
+      <!-- <a href="https://www.docker.com/"> -->
         <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-        Docker
+        &nbsp; &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://kubernetes.io">
+    <td align="center">
+      <!-- <a href="https://kubernetes.io"> -->
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>
-        Kubernetes
+        &nbsp; &nbsp;&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://www.python.org">
+    <td align="center">
+      <!-- <a href="https://www.python.org"> -->
         <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
-        Python
+        &nbsp; &nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://git-scm.com/">
+    <td align="center">
+      <!-- <a href="https://git-scm.com/"> -->
         <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
-        Git
+        &nbsp; &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://www.w3.org/html/">
+    <td align="center">
+      <!-- <a href="https://www.w3.org/html/"> -->
         <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
-        HTML5
+        &nbsp; &nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
   </tr>
 
   <tr>
-    <td >
-      <a href="https://www.w3schools.com/css/">
+    <td align="center">
+      <!-- <a href="https://www.w3schools.com/css/"> -->
         <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
-        CSS3
+        &nbsp; &nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <td align="center">
+      <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> -->
         <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>
-        JavaScript
+        &nbsp; &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://nodejs.org">
+    <td align="center">
+      <!-- <a href="https://nodejs.org"> -->
         <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
-        Node.js
+        &nbsp; &nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://reactjs.org/">
+    <td align="center">
+      <!-- <a href="https://reactjs.org/"> -->
         <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
-        React
+        &nbsp; &nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://getbootstrap.com">
+    <td align="center">
+      <!-- <a href="https://getbootstrap.com"> -->
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
-        Bootstrap
+        &nbsp; &nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://www.mysql.com/">
+    <td align="center">
+      <!-- <a href="https://www.mysql.com/"> -->
         <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
-        MySQL
+        &nbsp; &nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
-    <td >
-      <a href="https://postman.com">
+    <td align="center">
+      <!-- <a href="https://postman.com"> -->
         <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
-        Postman
+        &nbsp; &nbsp;&nbsp;&nbsp;Postman&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
       </a>
     </td>
   </tr>
 </table>
-
 
 ### 🖥️ Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
