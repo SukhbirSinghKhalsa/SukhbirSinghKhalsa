@@ -17,43 +17,43 @@
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/0_Microsoft_Azure">
         <img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/1_Terraform">
         <img src="https://skillicons.dev/icons?i=terraform" width="48"  /><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Docker-Implementations">
         <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/3_Kubernetes">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <!-- <a href="https://www.python.org"> -->
         <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/git_mastery_with_ssk">
         <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
   </tr>
@@ -62,43 +62,43 @@
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <!-- <a href="https://nodejs.org"> -->
         <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/ReactJS-MiniComponents">
         <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
       <!-- <a href="https://www.mysql.com/"> -->
         <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp; 
       </a>
     </td>
     <td align="center">
       <!-- <a href="https://postman.com"> -->
         <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Postman&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;Postman&nbsp;&nbsp;&nbsp;
       </a>
     </td>
   </tr>
