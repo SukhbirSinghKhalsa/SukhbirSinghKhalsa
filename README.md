@@ -23,19 +23,19 @@
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/1_Terraform">
         <img src="https://skillicons.dev/icons?i=terraform" width="48"  /><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp; &nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Docker-Implementations">
         <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp; &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/3_Kubernetes">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp; &nbsp;&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
@@ -68,7 +68,7 @@
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp; &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
@@ -86,7 +86,7 @@
     <td align="center">
       <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
-        &nbsp; &nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp; &nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       </a>
     </td>
     <td align="center">
